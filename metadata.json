@@ -1,0 +1,9 @@
+{
+  "name": "BizTrack AI - Monitoring Omzet Cerdas",
+  "description": "Aplikasi monitoring omzet usaha modern dengan integrasi Gemini AI untuk analisis data, penyuntingan foto produk, pembuatan video promosi, dan asisten suara real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
